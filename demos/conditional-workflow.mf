@@ -1,0 +1,8 @@
+step check
+flag = 1
+if flag == 1 then {
+    print "Flag is set"
+    goto end
+}
+step end
+print "Finished"

@@ -1,0 +1,6 @@
+step init
+counter = 0
+repeat 3 times {
+    print counter
+    counter = counter + 1
+}

@@ -1,0 +1,16 @@
+step start
+print "Workflow begins"
+step init
+counter = 0
+repeat 3 times {
+    print counter
+    counter = counter + 1
+}
+step check
+flag = 1
+if flag == 1 then {
+    print "Flag is set"
+    goto end
+}
+step end
+print "Finished"

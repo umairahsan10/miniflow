@@ -1,0 +1,11 @@
+step start
+x = 2
+repeat 2 times {
+    print x
+    x = x + 1
+}
+if x > 3 then {
+    print "x exceeded 3"
+}
+step end
+print "Workflow complete"

@@ -1,0 +1,4 @@
+step start
+print "Workflow begins"
+step end
+print "Workflow ends"
