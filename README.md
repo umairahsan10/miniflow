@@ -25,3 +25,14 @@ MiniFlow is a tiny workflow scripting language designed for CS4031 Compiler Cons
 ## Usage
 1. Place your `.mf` MiniFlow program in the `demos` folder.
 2. Run the compiler:
+
+## Group Members:
+1. Umair Ahsan [22K-4275]
+2. Muhammad Aliyan Malik [22K-4132]
+3. Muhammad Saad [22K-4407]
+
+### Section: BSCS-7A
+
+### Course: Compiler Construction
+
+### Teacher: Faisal Ali
